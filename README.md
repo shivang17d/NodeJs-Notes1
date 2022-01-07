@@ -29,12 +29,11 @@ Run `npm install -D nodemon`
 
 NOTE : Every file in NodeJs is module.
 
-1. NPM Module
-   --Run npmModule.js file
+1. NPM Module (Run npmModule.js file)
 
 ![image](https://user-images.githubusercontent.com/86548591/148542247-d8c787e4-4de5-47b7-91a9-e9935ac6cd19.png)
 
-2. Run local1M.js file
+2. Local Module (Run local1M.js file and local2M.js file)
 
 ![image](https://user-images.githubusercontent.com/86548591/148543986-bc554a88-a279-42bb-99d8-473a86291dd7.png)
 
