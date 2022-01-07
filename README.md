@@ -44,4 +44,6 @@ Run `npm install -D nodemon`
 
 ![image](https://user-images.githubusercontent.com/86548591/148590524-bf7ca7f3-0e23-44e5-8abb-19587bb05400.png)
 
+4. File-System Module (Run fileSysM.js file)
 
+![image](https://user-images.githubusercontent.com/86548591/148594847-5063ee47-d1f8-466d-8ea7-a10c832c39f8.png)
