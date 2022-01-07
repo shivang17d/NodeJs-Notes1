@@ -27,7 +27,9 @@ Run `npm install -D nodemon`
 ![image](https://user-images.githubusercontent.com/90856664/148527668-f25a85de-f55e-495b-acc6-733540989dbc.png)
 
 
-NOTE : Every file in NodeJs is module.
+# NOTE : Every file in NodeJs is module.
+
+# Types of Modules :
 
 1. NPM Module (Run npmModule.js file)
 
