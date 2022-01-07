@@ -1,6 +1,6 @@
 # NODEJS NOTES
 
-Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. It is used for executing JavaScript code outside of a browser.
 Node. js uses callbacks, being an asynchronous platform (non-blocking), it does not wait around like database query, file I/O to complete.
 
 Install LTS version of NodeJs in PC.
