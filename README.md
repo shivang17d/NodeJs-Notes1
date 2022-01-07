@@ -38,5 +38,6 @@ Run `npm install -D nodemon`
 2. Local Module (Run local1M.js file and local2M.js file)
 
 ![image](https://user-images.githubusercontent.com/86548591/148543986-bc554a88-a279-42bb-99d8-473a86291dd7.png)
+![image](https://user-images.githubusercontent.com/86548591/148547628-7589e420-45f1-4f7b-a6f2-6888251963f2.png)
 
 
