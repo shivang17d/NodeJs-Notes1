@@ -47,3 +47,7 @@ Run `npm install -D nodemon`
 4. File-System Module (Run fileSysM.js file)
 
 ![image](https://user-images.githubusercontent.com/86548591/148594847-5063ee47-d1f8-466d-8ea7-a10c832c39f8.png)
+
+5. Operating System Module (Run osM.js file)
+
+![image](https://user-images.githubusercontent.com/86548591/148597905-aac2daa3-680e-4916-9b21-e239bcb7d99e.png)
