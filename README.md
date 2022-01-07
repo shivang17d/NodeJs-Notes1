@@ -25,3 +25,6 @@ Run `npm install -D nodemon`
 
 ![image](https://user-images.githubusercontent.com/90856664/148527628-f1e9a161-01a0-4cea-8151-0e23c87ff0d5.png)
 ![image](https://user-images.githubusercontent.com/90856664/148527668-f25a85de-f55e-495b-acc6-733540989dbc.png)
+
+
+NOTE : Every file in NodeJs is module.
