@@ -40,4 +40,7 @@ Run `npm install -D nodemon`
 ![image](https://user-images.githubusercontent.com/86548591/148543986-bc554a88-a279-42bb-99d8-473a86291dd7.png)
 ![image](https://user-images.githubusercontent.com/86548591/148547628-7589e420-45f1-4f7b-a6f2-6888251963f2.png)
 
+3. Path Module (Run pathM.js file)
+![image](https://user-images.githubusercontent.com/86548591/148590524-bf7ca7f3-0e23-44e5-8abb-19587bb05400.png)
+
 
