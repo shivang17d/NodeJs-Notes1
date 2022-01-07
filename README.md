@@ -14,7 +14,6 @@ To run any javascript file in terminal use `node filename` command   (Example=> 
 Creating package.json file using `npm init` command 
 
 ![image](https://user-images.githubusercontent.com/90856664/148523189-a43018c8-07cd-41b7-83e9-e8e6662ca71c.png)
-
 ![image](https://user-images.githubusercontent.com/90856664/148523468-8f6b6bd3-5e6a-49f8-ac32-ef3590b8ce7f.png)
 
 Run `npm install cli-color`
