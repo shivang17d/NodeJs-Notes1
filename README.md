@@ -51,3 +51,8 @@ Run `npm install -D nodemon`
 5. Operating System Module (Run osM.js file)
 
 ![image](https://user-images.githubusercontent.com/86548591/148597905-aac2daa3-680e-4916-9b21-e239bcb7d99e.png)
+
+6. Event Module (Run eventsM1.js file)
+
+![image](https://user-images.githubusercontent.com/86548591/148633580-06ef94af-4d7c-4900-a20d-400b9281dc81.png)
+
