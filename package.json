@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-crash-course",
+  "version": "1.0.0",
+  "description": "this is crash course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Shivang Gupta <shivangguptaxd@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
