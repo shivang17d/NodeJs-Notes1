@@ -58,5 +58,5 @@ Run `npm install -D nodemon`
 ![image](https://user-images.githubusercontent.com/86548591/148633754-4c0230a0-cf6d-45bb-bf9b-1daee065c918.png)
 
 
-### 7. [HTTP Module](https://github.com/shivangguptax/NodeJs-Notes2) !
+### 7. [HTTP Module](https://github.com/shivangguptax/NodeJs-Notes2) 
 
